@@ -1,6 +1,7 @@
 {
   "name": "npm-fcc",
   "version": "1.0.0",
+  "author": "Adit Bhatia",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +12,6 @@
     "url": "git+https://github.com/BarryAllenCentralCity/npm-fcc.git"
   },
   "keywords": [],
-  "author": "Adit Bhatia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BarryAllenCentralCity/npm-fcc/issues"
